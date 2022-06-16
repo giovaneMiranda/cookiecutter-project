@@ -1,6 +1,6 @@
 # Cookiecutter Data Science
 
-_A standardized project structure for doing and sharing data science project at Comunidade DS._
+_A standardized project structure for doing and sharing data science project ._
 
 ### Requirements to use the cookiecutter template:
 -----------
